@@ -37,12 +37,11 @@
 
 ## 📊 GitHub Stats
 
-![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight" />
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight)
-
 
 ## 🌱 Currently Working On
 
