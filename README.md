@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Gaurang
 
 💻 Developer passionate about building cool things
+
 🌱 Currently learning and improving every day
+
 🚀 Interested in software development, AI, and open source
 
 ## 🛠️ Tech Stack
