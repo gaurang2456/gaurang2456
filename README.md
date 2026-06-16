@@ -4,14 +4,6 @@
 🌱 Currently learning and improving every day
 🚀 Interested in software development, AI, and open source
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight)
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -45,10 +37,16 @@
 
 ## 📊 GitHub Stats
 
-![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&theme=tokyonight)
+[![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&theme=tokyonight)
+](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&hide_rank=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight)
 
-> Building secure and intelligent applications with Java and AI.
+## 🌱 Currently Working On
+
+- Building AI-powered applications with Spring AI
+- Learning advanced Redis caching patterns
+- Exploring RAG architectures and vector databases
+- Improving Docker deployment workflows
