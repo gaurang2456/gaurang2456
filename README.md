@@ -37,8 +37,7 @@
 
 ## 📊 GitHub Stats
 
-[![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&theme=tokyonight)
-](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&hide_rank=true)
+https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&hide_rank=true
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight)
 
