@@ -41,7 +41,7 @@
   <img src="https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight" />
 </p>
 <p align="center">
- <img src=![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight)>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🌱 Currently Working On
