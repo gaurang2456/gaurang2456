@@ -37,11 +37,14 @@
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true&hide_rank=true
+## 📊 GitHub Stats
+
+![Gaurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurang2456&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gaurang2456&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2456&layout=compact&theme=tokyonight)
+
 
 ## 🌱 Currently Working On
 
